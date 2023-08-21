@@ -4,4 +4,4 @@ Chegou a hora de colocarmos em prática toda a concepção de análise de negóc
 
 [Lançamento iPhone 2007](https://www.youtube.com/watch?v=9ou608QQRq8).
 
-![UML iPhone](img/uml iphone.PNG)
+![UML iPhone](img/uml.png)
